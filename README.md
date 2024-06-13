@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'am Kit. A Full-Stack Softeware Engineer | TypeScript and React enthusiast 
 
 <!--
 **kitmak72/kitmak72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![roadmap.sh](https://roadmap.sh/card/wide/6669b69a59bd70fae222fbb3?variant=light&roadmaps=frontend%2Creact%2Cbackend%2Cjava)](https://roadmap.sh)
+
+My Skill Profile and roadmaps progress
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6669b69a59bd70fae222fbb3?variant=light&roadmaps=frontend%2Creact%2Cbackend%2Cjava)](https://roadmap.sh/u/kamtik)
