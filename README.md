@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Kit. A Full-Stack Softeware Engineer | TypeScript and React enthusiast 🔥
+## Hi there 👋 I'am Kit. A Full-Stack Softeware Engineer | Strive for Greatness 🔥
 
 <!--
 **kitmak72/kitmak72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
